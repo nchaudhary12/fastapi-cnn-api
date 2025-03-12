@@ -1,0 +1,6 @@
+*.log
+__pycache__/
+airplane.jpg
+response_*.json
+tempCodeRunnerFile.py
+venv/
