@@ -209,6 +209,13 @@ Expected output:
 {
   "prediction": 7
 }
+
+✨ Tech Stack
+FastAPI
+TensorFlow
+Python
+Docker
+
 🚀 Everything is Ready!
 ✅ Folder structure – DONE
 ✅ Code – DONE
@@ -218,4 +225,6 @@ Expected output:
 ✅ Deployment – DONE
 
 ➡️ Let me know if you need help with Render or testing! 😎
+
+
 
